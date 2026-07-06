@@ -1,0 +1,23 @@
+DeTile
+======
+
+TileGame on DeTile GameEngine
+
+Documentation
+-------------
+
+Build: Documentation/BUILDING.rst
+Contribute: Documentation/CONTRIBUTING.rst
+Feedback: Documentation/FEEDBACK.rst
+Architecture: Documentation/ARCHITECTURE.rst
+License: LICENSE
+
+GamePlay Video
+--------------
+
+[Later]
+
+License
+-------
+
+This project is licensed under the terms of the LICENSE file.
