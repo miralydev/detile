@@ -6,10 +6,11 @@ TileGame on DeTile GameEngine
 Documentation
 -------------
 
-Build: Documentation/BUILDING.rst
-Contribute: Documentation/CONTRIBUTING.rst
-Feedback: Documentation/FEEDBACK.rst
-Architecture: Documentation/ARCHITECTURE.rst
+File's Tree: Documentation/files_tree.rst
+Build: Documentation/building.rst
+Contribute: Documentation/contributing.rst
+Feedback: Documentation/feedback.rst
+Architecture: Documentation/architecture.rst
 License: LICENSE
 
 GamePlay Video
